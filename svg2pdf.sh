@@ -1,1 +1,1 @@
-inkscape $1.svg --export-pdf=$1.pdf
+inkscape $1.svg -o $1.pdf
